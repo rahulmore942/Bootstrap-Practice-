@@ -1,2 +1,1 @@
-# Bootstrap-Practice-
-basics of Bootstrap
+# Bootstrap-started
